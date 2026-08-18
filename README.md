@@ -32,7 +32,21 @@ This project demonstrates basic employee data management through a clean and res
 
 ## Screenshots
 
-Screenshots will be added soon.
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Employee Directory
+
+![Employee Directory](screenshots/employees.png)
+
+### Add Employee
+
+![Add Employee](screenshots/add-employee.png)
+
+### Login
+
+![Login](screenshots/login.png)
 
 ## Installation
 
